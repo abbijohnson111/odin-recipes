@@ -1,0 +1,51 @@
+body
+
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    display: block;
+    background-color: #FF69B4;
+    padding: 10px;
+}
+
+.para{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 5px;
+    border-bottom: 5px solid palevioletred;
+    margin-bottom: 35px;
+}
+
+.lasagna{
+    font-size: 20px;
+    text-align: center;
+    width: 320px;
+    height: auto;
+    padding: auto;
+    border: 5px dashed pink;
+    margin: auto;
+    margin-bottom: 35px;
+}
+
+.crab{
+    font-size: 20px;
+    text-align: center;
+    width: 320px;
+    height: auto;
+    padding: auto;
+    border: 5px dashed pink;
+    margin: auto;
+    margin-bottom: 35px;
+}
+
+.spaghetti{
+    font-size: 20px;
+    text-align: center;
+    width: 320px;
+    height: auto;
+    padding: auto;
+    border: 5px dashed pink;
+    margin: auto;
+    margin-bottom: 35px;
+}
