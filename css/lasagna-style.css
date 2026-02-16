@@ -20,7 +20,8 @@ body{
     display: block;
     border: solid 5px pink;
     margin: auto;
-    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .description{
