@@ -1,0 +1,52 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.home{
+    font-size: 20px;
+    padding: 15px;
+}
+
+.title{
+    text-align: center;
+    display: block;
+    background-color: #FF69B4;
+    padding: 5px;
+    border: solid 5px black;
+    box-sizing: 20px;
+    margin-bottom: 20px;
+}
+
+.image{
+    display: block;
+    border: solid 5px pink;
+    margin: auto;
+    padding: 20px;
+}
+
+.description{
+    text-align: center;
+    display: block;
+    border-bottom: dashed 5px hotpink;
+    border-top: dashed 5px hotpink;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.desc-para{
+    text-align: center;
+    display: block;
+}
+
+.ingredients{
+    text-align: center;
+    display: block;
+    border-bottom: dashed 5px hotpink;
+    border-top: dashed 5px hotpink;
+}
+
+.steps{
+    text-align: center;
+    display: block;
+    border-bottom: dashed 5px hotpink;
+    border-top: dashed 5px hotpink;
+}
