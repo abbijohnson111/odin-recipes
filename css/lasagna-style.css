@@ -17,11 +17,10 @@ body{
 }
 
 .image{
-    display: block;
-    border: solid 5px pink;
-    margin: auto;
+    text-align: center;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 20px auto;
+    border: 5px solid #FF69B4;
 }
 
 .description{
